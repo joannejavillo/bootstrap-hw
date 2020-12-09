@@ -5,9 +5,9 @@
 
 
 ---
-# Program Used #
-> Bootstrap 
-> Font awesome
+# Programs Used #
+-Bootstrap 
+- Font awesome
 ---
 - All the links should work properly 
 - Explored the use of Nav bar 
