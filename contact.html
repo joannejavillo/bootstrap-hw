@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+        integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+        crossorigin="anonymous" />
     <title>Contact</title>
 </head>
 
@@ -41,16 +43,19 @@
         </div>
         <h1>Contact</h1>
         <form>
+            <!--Name-->
             <div class="form-group">
                 <label for="usr">Name:</label>
                 <input type="text" class="form-control" id="usr">
             </div>
+            <!--Email-->
             <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
                 <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone
                     else.</small>
             </div>
+            <!--Message-->
             <div>
                 <h6>Message</h6>
                 <form action="/action_page.php">
@@ -63,12 +68,15 @@
         </form>
     </div>
     <!--this is a footer-->
-    <a href="../sticky-footer-navbar/"></a>
-    <footer class="footer">
+    <footer class="footer" style="text-align: center; background-color: lightgray;">
         <div class="container">
-            <span class="textalign-center">Made by JJavillo &copy; 2020</span>
-        </div>
+            <a href="https://github.com/joannejavillo" target="_blank"><i class="fab fa-github-square"></i></a>
+            <a href="https://twitter.com/home" target="_blank"><i class="fab fa-twitter"></i></a>
+            <span class="textalign-center">Made by JJavillo</span>
+            <p> &copy; 2020</p> 
+        </div>      
     </footer>
+    <!--JS-->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
         integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
         crossorigin="anonymous"></script>
