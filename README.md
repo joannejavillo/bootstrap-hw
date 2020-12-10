@@ -20,6 +20,7 @@
 
 ![screenshot-of-html-page](./images/aboutme-screenshot.png)
 ![screenshot-of-contact-page](./images/contact-screenshot.png)
+![screenshot-of-portfolio-page](./images/portfolio-screenshot.png)
 ---
 
 ### All images in portfolio are for illustration purposes only ###
