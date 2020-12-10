@@ -13,11 +13,14 @@
 - All the links should work properly 
 - Explored the use of Nav bar 
 - Utilised Bootstrap components and grid system 
+- Applied CSS for the background image and footer
 
 ---
-# Attached is a screenshot of html page #
+# Attached are screenshots of html page, contact page and portfolio page #
 
 ![screenshot-of-html-page](./images/aboutme-screenshot.png)
+![screenshot-of-contact-page](./images/contact-screenshot.png)
+---
 
 ### All images in portfolio are for illustration purposes only ###
 
