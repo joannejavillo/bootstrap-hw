@@ -19,9 +19,9 @@
 ---
 # Attached are screenshots of html page, contact page and portfolio page #
 
-![screenshot-of-html-page](.assets/images/aboutme-screenshot.png)
-![screenshot-of-contact-page](.assets/images/contact-screenshot.png)
-![screenshot-of-portfolio-page](.assets/images/portfolio-screenshot.png)
+![screenshot-of-html-page](./assets/images/aboutme-screenshot.png)
+![screenshot-of-contact-page](./assets/images/contact-screenshot.png)
+![screenshot-of-portfolio-page](./assets/images/portfolio-screenshot.png)
 ---
 
 ### All images in portfolio are for illustration purposes only ###
