@@ -17,7 +17,7 @@
 
 
 ---
-# Attached are screenshots of html page, contact page and portfolio page #
+# Attached are screenshots of html home page, contact page and portfolio page #
 
 ![screenshot-of-html-page](./assets/images/aboutme-screenshot.png)
 ![screenshot-of-contact-page](./assets/images/contact-screenshot.png)
