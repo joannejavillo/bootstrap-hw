@@ -6,14 +6,15 @@
 
 
 ---
-# Programs Used #
+# Used #
 -  Bootstrap v 4.5
--  Font awesome
+-  Font awesome icons
 ---
 - All the links should work properly 
 - Explored the use of Nav bar 
 - Utilised Bootstrap components and grid system 
 - Applied CSS for the background image and footer
+
 
 ---
 # Attached are screenshots of html page, contact page and portfolio page #
